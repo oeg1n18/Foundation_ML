@@ -1,2 +1,3 @@
 # Foundation_ML
-This notebook shows the fundamental methods that ML uses. Using only linear regression a number of different types of models are built.
+This repo covers the fundementals of regression, softmax regression, probabilisitic regression and PCA. All methods used are based on the fundamental linear algebra with no use of packages like tensorflow or pytorch. 
+
